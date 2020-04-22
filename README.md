@@ -1,4 +1,4 @@
-# submission_third
+# MealAplication
 
 A new Flutter application.
 
